@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL32B226KOJNNNE
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 22uF+/-10% 16V X7R 3225
+K
+F https://www.tme.eu/Document/4a42202b32dab16128fe107dd69598cc/samsung-chip-cap.pdf
+$ENDCMP
+#
+#End Doc Library

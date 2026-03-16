@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XAL5030-332MEC
+D COILCRAFT - XAL5030-332MEC - Power Inductor (SMD), 3.3 H, 8.1 A, Shielded, 8.7 A, XAL5030, 5.48mm x 5.28mm x 3.1mm
+K
+F https://www.coilcraft.com/getmedia/49bc46c8-4b2c-45b9-9b6c-2eaa235ea698/xal50xx.pdf
+$ENDCMP
+#
+#End Doc Library

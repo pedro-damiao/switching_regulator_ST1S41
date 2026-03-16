@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC0805FR-0720KL
+D Yageo 20k, 0805 (2012M) Thick Film SMD Resistor +/-1% 0.125W - RC0805FR-0720KL
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+$ENDCMP
+#
+#End Doc Library

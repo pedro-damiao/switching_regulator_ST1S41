@@ -1,0 +1,18 @@
+Total 11
+
+Connectors
+1x Banana socket Red: 571-0100
+1x Banana socket Black: 571-0500
+2x Terminal Block 4 pins duplicated: TBL009-254-04GY-2GY
+
+Passive
+1x Inductor: XAL5030-332EMC
+1x Resistor: RC0805FR-0720KL
+1x Resistor: AC0805FR-0762KL
+1x Capacitor: CC0805KKX7R8BB105
+1x Capacitor: GRM32DR71E106KA12L
+1x Capacitor: CL32B226KOJNNNE
+
+IC
+1x ST1S41PHR: Switching regulator
+
