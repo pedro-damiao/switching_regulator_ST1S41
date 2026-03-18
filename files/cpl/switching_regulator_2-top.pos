@@ -1,0 +1,11 @@
+### Footprint positions - created on 2026-03-18T14:36:15+0100 ###
+### Printed by KiCad version 9.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                  PosX       PosY       Rot  Side
+C1        GRM32DR71E106KA12L  CAPC3225X270N         31.4250    31.4900   90.0000  top
+C2        CL32B226KOJNNNE     CAPC3225X270N         31.4250    36.6900  -90.0000  top
+C3        CC0805KKX7R8BB105   CAPC2012X145N         20.9250    33.5400   90.0000  top
+IC1       ST1S41PHR           SOIC127P600X170-9N    25.8250    30.6900    0.0000  top
+L1        XAL5030-332MEC      XAL5030332MEC         37.1000    33.1000   90.0000  top
+## End
